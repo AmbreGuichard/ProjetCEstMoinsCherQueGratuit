@@ -1,0 +1,27 @@
+nav > ul{
+	display: flex;
+	justify-content: center;
+	list-style: none;
+}
+
+nav > ul > li {
+	margin: 20px;	
+}
+
+h1 {
+	text-align: center;
+}
+
+form label {
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+}
+
+form input{
+	margin-bottom: 20px;
+}
+
+form button{
+	margin-left: 150px;
+}
